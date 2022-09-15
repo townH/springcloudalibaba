@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_4-order-loadbalancer" />
+        <module name="_2-order-nacos" />
+        <module name="_2-stock-nacos" />
+        <module name="_3-order-ribbon" />
+        <module name="_5-product-nacos" />
+        <module name="_1-stock" />
+        <module name="_5-order-feign" />
+        <module name="_1-order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
